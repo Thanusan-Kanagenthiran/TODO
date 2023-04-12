@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc app.ts",
+    "watch": "tsc --watch",
+    "start": "start index.html"
+  },
+  "keywords": [],
+  "author": "Thanusan Kanagenthiran",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
