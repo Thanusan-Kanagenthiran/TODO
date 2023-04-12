@@ -59,11 +59,6 @@ The app is structured into two main files: app.ts and index.html. app.ts contain
 https://thanusan.tech/TODO
 
 
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
 ## Tech Stack
 
  Typescript, HTML, CSS, Bootstrap
@@ -75,4 +70,10 @@ For support, email fake@fake.com or join our Slack channel.
 Here are resources used
 
 [TO README](https://readme.so/)
+
+## Screenshots
+
+![Screenshot 1](https://link-to-screenshot-1)
+![Screenshot 2](https://link-to-screenshot-2)
+
 
