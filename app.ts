@@ -60,9 +60,9 @@ class BaseTaskList implements TaskList {
 }
 
 class TodoList extends BaseTaskList {
-  private readonly taskInput: HTMLInputElement;
-  private readonly taskList: HTMLUListElement;
-  private readonly totalTasks: HTMLSpanElement;
+  private  taskInput: HTMLInputElement;
+  private  taskList: HTMLUListElement;
+  private  totalTasks: HTMLSpanElement;
   private completedTasks: HTMLSpanElement; // remove readonly modifier
 
   constructor(
