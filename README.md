@@ -31,24 +31,6 @@ Go to the project directory
   cd TODO
 ```
 
-Install dependencies
-
-```bash
-  npm install
-```
-Compile app.ts
-
-```bash
-  npm run build
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Technical Details:
 
 The app uses an object-oriented approach with classes and interfaces to manage tasks and render them on the page. 
